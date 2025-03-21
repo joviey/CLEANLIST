@@ -18,6 +18,7 @@ createRoot(document.getElementById("root")).render(
       <Design />
       <Integration />
       <Feature />
+      <Price/>
       <Footer />
     </Background>
   </StrictMode>,
