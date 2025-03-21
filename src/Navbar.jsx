@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
-import vector from "./assets/Vector.png"; // Match exactly!
+import vector from "/vector.png"; // Match exactly!
 
 
 const App = () => {
