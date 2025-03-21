@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
-import vector from './assets/vector.png'
+import vector from "./assets/Vector.png"; // Match exactly!
+
 
 const App = () => {
   const [isOpen, setIsOpen] = useState(false);
